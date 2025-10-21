@@ -20,7 +20,8 @@ else:
     print("ODD")
 ```
 ## Output
-![alt text](image-1.png)
+<img width="845" height="355" alt="Screenshot 2025-10-21 125757" src="https://github.com/user-attachments/assets/fff5a840-2095-4a24-a423-6c1247d1cfd6" />
+
 ## Result
 ```
 Thus the program to check whether the given number is even or odd using if...else statements is executed successfully.
