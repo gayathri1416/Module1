@@ -31,7 +31,9 @@ print("d:", d)
 
 ## Output
 
-![alt text](image.png)
+
+<img width="380" height="225" alt="Screenshot 2025-10-19 185706" src="https://github.com/user-attachments/assets/ac8b648f-8904-4cae-9a8d-986d71eef8e1" />
+
 
 ## Result
 ```
