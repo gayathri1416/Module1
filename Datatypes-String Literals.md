@@ -15,7 +15,7 @@ print(men_stepped_on_the_moon)
 
 ```
 ## Output
-<img width="987" height="194" alt="Screenshot 2025-10-21 125020" src="https://github.com/user-attachments/assets/d4f02b4f-f6f7-4bb8-b664-21d0bb40b87e" />
+<img width="1284" height="284" alt="Screenshot 2025-10-21 092853" src="https://github.com/user-attachments/assets/cf30be3f-9790-4432-98e4-08069a6750f4" />
 
 ## Result
 ```
